@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.rabotavtaxidriver.opentaxicash"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. www.tattoorussia.ru</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/0f8de6b64f18d2b9195759a3ecb4e0d6.png" density="xxhdpi" />
         <icon src="res/android/icon/5163ce5a18ce751fa348bd0dc5cb3ad6.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/c3dfaf68353d6c9acf0d188fd3d413a8.png" density="port-hdpi"/>
-        <splash src="res/android/screen/aa58d6d0bc50939451ebbc49c9d40d1c.png" density="port-ldpi"/>
-        <splash src="res/android/screen/b4f4d348812c88427605b099f9ed1b94.png" density="port-mdpi"/>
-        <splash src="res/android/screen/37b8195ec8c8ad77ac5adaf68b8a25e7.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/41afaddc1dc8c3d2ffc94e39e3256171.png" density="port-hdpi"/>
+        <splash src="res/android/screen/9c9305d374486a4f2af0d30dcb47a957.png" density="port-ldpi"/>
+        <splash src="res/android/screen/f764d782b9487cc3a9c3194c3eb304da.png" density="port-mdpi"/>
+        <splash src="res/android/screen/ba10f3e70a8e1b9c450ab46a2f0ba5dd.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
