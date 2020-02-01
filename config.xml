@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.rabotavtaxivoditelem.opencashtaxi"
+        id          = "rus.srochnayarabotavtaxi.app"
         versionCode = "10"
-        version     = "1.5.0">
+        version     = "1.6.0">
 
-    <name>Регистрация в такси водителем</name>
+    <name>Срочная работа в такси</name>
 
     <description>
-        Регистрация в такси водителем 0+
+        Срочная работа в такси
     </description>
 
     <author>Tadapp</author>
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#3F7BBC" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
